@@ -7,5 +7,6 @@ public class Homecode68 {
 
         System.out.println("data1:" + data1);
         System.out.println("data2:" + data2);
+
     }
 }
