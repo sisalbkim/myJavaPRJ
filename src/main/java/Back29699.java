@@ -12,6 +12,8 @@ public class Back29699 {
         n = n-1;
         n = n%14;
 
+
+
         System.out.println(a[n]);
 
     }
