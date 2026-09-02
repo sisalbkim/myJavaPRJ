@@ -19,7 +19,7 @@ public class Prog340204 {
             System.out.println("Neurosurgery");
         }
         else if(
-                lastFourWords.equals("infi")
+                lastFourWords.equals("infl")
         ){
             System.out.println("Orthopedics");
         }
